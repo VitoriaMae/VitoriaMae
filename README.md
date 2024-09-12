@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @VitoriaMae
-- 👀 Estou interessada nessa área da programção por gostar bastante desse meio
-- 🌱 Estou aprendendo no momento HTML e CSS 
-- 💞️ Eu estou indo para esse meio com o intuito de criar sites, jogos
+- 👀 Estou interessada nessa área da programção por gostar bastante desse meio.
+- 🌱 Estou aprendendo no momento HTML e CSS.
+- 💞️ Eu estou indo para esse meio com o intuito de criar sites e jogos
 - 📫 Você pode me encontrar em "maria.dranski.ribeiro@escola.pr.gov.br"
