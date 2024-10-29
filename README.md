@@ -4,4 +4,4 @@
 - 💞️ Eu estou indo para esse meio com o intuito de criar sites e jogos
 - 📫 Você pode me encontrar em "maria.dranski.ribeiro@escola.pr.gov.br"
 
-<img src="https://tenor.com/pt-BR/view/cats-gif-26460331" alt="Cat gif" width="200"/>
+<img src="https://media1.tenor.com/pt-BR/view/cats-gif-26460331" alt="Cat gif" width="200"/>
